@@ -1,6 +1,6 @@
 
-# 🌐 InfinityWare – Inteligência em Soluções Digitais  
-![Banner InfinityWare](https://github.com/INFTYWARE/Img/blob/main/banner.png)  
+# 🌐 InfinityWare 2 – Inteligência em Soluções Digitais  
+![Banner InfinityWare]() 
 *Tecnologia, Inteligência Artificial e Automação para o futuro corporativo.*  
 
 ---
@@ -10,8 +10,8 @@
 - [Nossos Números](#-nossos-números)  
 - [O que nos diferencia](#-o-que-nos-diferencia)  
 - [Produtos e Soluções](#-produtos-e-soluções)  
-  - [PagBus](#pagbus)  
-  - [SmartCall](#smartcall)  
+  - [PagBus](#-pagbus)  
+  - [SmartCall](#-smartcall)  
 - [Documentação](#-documentação)  
 - [Compromissos e Valores](#-compromissos-e-valores)  
 - [Equipe](#-equipe)  
@@ -56,7 +56,7 @@ Sistema de **pagamento inteligente para transporte público**.
 - Dashboards de gestão para órgãos públicos  
 - Redução de fraudes e filas  
 
-🔗 [Repositório PagBus](https://github.com/INFTYWARE/Pagbus)  
+🔗 [Repositório PagBus](https://github.com/4-SEMESTRE/Pagbus-)  
 
 ---
 
@@ -69,16 +69,16 @@ Plataforma de **gestão de chamados com triagem por IA**, criada para dar suport
 - Histórico completo de chamados  
 - Total aderência à LGPD  
 
-🔗 [Repositório SmartCall](https://github.com/INFTYWARE/SmartCall-Pim-)  
+🔗 [Repositório SmartCall](https://github.com/4-SEMESTRE/Smartcall)  
 
 ---
 
 ## 📂 Documentação
 Acesse materiais de apoio e organização do projeto SmartCall:  
-- 📘 [Backlog do Projeto](https://github.com/INFTYWARE/SmartCall-Pim-/blob/main/Backlog.md)  
-- 🗂 [Planejamento de Sprints](https://github.com/INFTYWARE/SmartCall-Pim-/blob/main/Sprints.md)  
-- 🖇 [Diagramas UML](https://github.com/INFTYWARE/SmartCall-Pim-/tree/main/Diagramas)  
-- 📝 [Reuniões Registradas](https://github.com/INFTYWARE/SmartCall-Pim-/blob/main/Meeting.md)  
+- 📘 [Backlog do Projeto]()  
+- 🗂 [Planejamento de Sprints]()  
+- 🖇 [Diagramas UML]()  
+- 📝 [Reuniões Registradas]()  
 
 ---
 
@@ -91,10 +91,15 @@ Acesse materiais de apoio e organização do projeto SmartCall:
 ---
 
 ## 👥 Equipe
-A InfinityWare conta com **times multidisciplinares** formados por engenheiros de software, designers, especialistas em IA e analistas de suporte.  
+A InfinityWare conta com **times multidisciplinares** formados por analistas de sistemas.  
 
 > Nosso diferencial é a **colaboração** e a **busca constante por inovação**.
 
+| Equipe      | Função |
+|-----------------------|-------------------|
+| **Cauã Carvalho** | Product Owner |
+| **Junior Onorato** | Scrum Master |
+| **Caique Silva** | Desenvolvedor  |
 ---
 
 ## 📞 Contato
