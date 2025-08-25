@@ -1,6 +1,6 @@
 
 # 🌐 InfinityWare 2 – Inteligência em Soluções Digitais  
-![Banner InfinityWare]() 
+![Banner InfinityWare](https://github.com/4-SEMESTRE/img/blob/main/banner.png) 
 *Tecnologia, Inteligência Artificial e Automação para o futuro corporativo.*  
 
 ---
@@ -20,10 +20,16 @@
 
 ---
 
-## 📌 Sobre a InfinityWare
+# 📌 Sobre a InfinityWare  
+
 Fundada em **2022**, a **InfinityWare** é uma empresa brasileira de **desenvolvimento de software e inteligência corporativa**, especializada em soluções digitais que unem **inovação, segurança e agilidade**.  
 
 Nossa missão é **transformar processos corporativos em experiências inteligentes**, ajudando empresas a enfrentar os desafios da transformação digital.  
+
+Assim como muitos times em fase inicial, nós também enfrentamos desafios com a **estruturação de repositórios no GitHub**, a criação de **branches bem organizadas**, o controle de versionamento e a definição de um fluxo de trabalho eficiente para toda a equipe. Essas dificuldades nos mostraram a importância de ter processos claros e ferramentas bem configuradas.  
+
+Foi justamente superando esses obstáculos que consolidamos nossa experiência e hoje conseguimos entregar aos parceiros não apenas tecnologia, mas também **métodos práticos para evitar os mesmos problemas que vivemos no início da nossa jornada**.  
+
 
 ---
 
