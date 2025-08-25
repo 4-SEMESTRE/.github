@@ -81,10 +81,10 @@ Plataforma de **gestão de chamados com triagem por IA**, criada para dar suport
 
 ## 📂 Documentação
 Acesse materiais de apoio e organização do projeto SmartCall:  
-- 📘 [Backlog do Projeto]()  
-- 🗂 [Planejamento de Sprints]()  
-- 🖇 [Diagramas UML]()  
-- 📝 [Reuniões Registradas]()  
+
+-  [Backlog do Projeto](https://github.com/4-SEMESTRE/Smartcall/blob/main/Backlog.md)
+-  [Planejamento das Sprints](https://github.com/4-SEMESTRE/Smartcall/blob/main/Sprints.md)
+-  [Diagramas UML (caso de uso, classe, sequência, implantação)](https://github.com/4-SEMESTRE/Smartcall/tree/main/Diagramas)    
 
 ---
 
