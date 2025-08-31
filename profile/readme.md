@@ -84,7 +84,8 @@ Acesse materiais de apoio e organização do projeto SmartCall:
 
 -  [Backlog do Projeto](https://github.com/4-SEMESTRE/Smartcall/blob/main/Backlog.md)
 -  [Planejamento das Sprints](https://github.com/4-SEMESTRE/Smartcall/blob/main/Sprints.md)
--  [Diagramas UML (caso de uso, classe, sequência, implantação)](https://github.com/4-SEMESTRE/Smartcall/tree/main/Diagramas)    
+-  [Diagramas UML (caso de uso, classe, sequência, implantação)](https://github.com/4-SEMESTRE/Smartcall/tree/main/Diagramas)
+-  [Videos](https://github.com/4-SEMESTRE/Smartcall/tree/main/Videos)
 
 ---
 
