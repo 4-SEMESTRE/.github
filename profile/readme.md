@@ -104,7 +104,7 @@ A InfinityWare conta com **times multidisciplinares** formados por analistas de 
 
 | Equipe      | Função |
 |-----------------------|-------------------|
-| **Cauã Carvalho** | Product Owner |
+| [**Cauã Carvalho**](https://github.com/Arcano06) | Product Owner |
 | **Junior Onorato** | Scrum Master |
 | **Caique Silva** | Desenvolvedor  |
 ---
