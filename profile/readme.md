@@ -46,7 +46,7 @@ Essas dores foram superadas e hoje a empresa ajuda parceiros a não cometerem os
 ---
 
 ## 📚 Link para Pasta de Documentação  
-🔗 [Documentação do Projeto](https://github.com/4-SEMESTRE/Smartcall/tree/main/Diagramas)  
+🔗 [Documentação do Projeto](https://github.com/4-SEMESTRE/Smartcall)
 
 ---
 
