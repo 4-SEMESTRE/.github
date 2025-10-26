@@ -11,6 +11,7 @@ A **InfinityWare** nasceu para resolver os desafios da transformação digital, 
 * 📂 **Outros elementos obrigatórios:**
     * [Sprints](https://github.com/4-SEMESTRE/Smartcall/blob/Master/Sprints.md)
     * [Diagramas](https://github.com/4-SEMESTRE/Smartcall/tree/Master/Diagramas)
+    * [Manual de Usuário](https://github.com/4-SEMESTRE/Smartcall/blob/Master/Manual%20de%20Usu%C3%A1rio.md)
 
 ## Cronograma de Evolução
 
