@@ -11,12 +11,12 @@ A **InfinityWare** nasceu para resolver os desafios da transformação digital, 
     * [Cronograma de Evolução](https://github.com/4-SEMESTRE/Smartcall/blob/Master/Cronograma.md)
     * [Sprints e DoD/DoR](https://github.com/4-SEMESTRE/Smartcall/blob/Master/Sprints.md)
     * [Tecnologias Utilizadas](https://github.com/4-SEMESTRE/Smartcall/blob/Master/Tecnologias%20Utilizadas.md)
-    * [Estrutura do Projeto](https://github.com/4-SEMESTRE/Smartcall/blob/Master/Estrutura%20do%20Projeto.md)
+    * [Estrutura do Projeto](https://github.com/4-SEMESTRE/Smartcall/tree/Master/Diagramas)
     * [Como executar](https://github.com/4-SEMESTRE/Smartcall/blob/Master/Como%20Executar.md)
     * [Documentação](https://github.com/4-SEMESTRE/Smartcall)
     * [Equipe](https://github.com/4-SEMESTRE/Smartcall/blob/Master/Equipe.md)
+    * [DoD/DoR](https://github.com/4-SEMESTRE/Smartcall/blob/Master/Sprints.md)
     * [Manual de Usuário](https://github.com/4-SEMESTRE/Smartcall/blob/Master/Manual%20de%20Usu%C3%A1rio.md)
-    * [Diagramas](https://github.com/4-SEMESTRE/Smartcall/tree/Master/Diagramas)
  
 ## Licença
 
